@@ -12,6 +12,7 @@ Creation of DB:
 API :
 
 localhost:8080/addProperties
+
 	-H 'Content-Type: application/json'
 	{
 		"properties" : [
